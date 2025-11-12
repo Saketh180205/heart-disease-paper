@@ -59,3 +59,5 @@ You can deploy this Streamlit app on [Streamlit Cloud](https://share.streamlit.i
 **Author:** Saketh V  
 **Guided by:** [Your Professor / Supervisor Name]  
 **Year:** 2025
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Framework](https://img.shields.io/badge/Framework-Streamlit-orange)
