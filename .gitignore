@@ -1,0 +1,16 @@
+﻿# Python caches
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Data and outputs (do not commit raw dataset or generated files)
+data/
+results/
+figures/
+.ipynb_checkpoints/
+
+# VS Code / system
+.vscode/
+.DS_Store
