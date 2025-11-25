@@ -56,8 +56,8 @@ This project provides all analysis outputs required for a research paper:
 You can deploy this Streamlit app on [Streamlit Cloud](https://share.streamlit.io) using your GitHub repository.
 
 ---
-**Author:** Saketh V  
-**Guided by:** [Your Professor / Supervisor Name]  
+**Author:** Saketh V , Thrushna T, Nandhini G, Deekshith S. 
+**Guided by:** Dr. Sreedevi A
 **Year:** 2025
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Framework](https://img.shields.io/badge/Framework-Streamlit-orange)
